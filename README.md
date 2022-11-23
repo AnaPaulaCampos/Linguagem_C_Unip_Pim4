@@ -1,19 +1,11 @@
 # PIM-IV
-PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2020
+PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2022
 
 ## Integrantes
 
-2017581 - BRUNO SAPALACIO MINEIRO (líder)
+ANA PAULA DE OLIVEIRA CAMPOS
 
-2009202 - ALBERTO SENNA DIAS NETO
-
-2022929 - LEANDRO PEREIRA COSTA
-
-2000290 - PAULO HENRIQUE MENEZES DE SOUZA
-
-2025264 - SOLIMAR MARCONDES DE MELO
-
-## Descrição do Problema
+## Descrição do Projeto
 
 O objetivo do projeto será desenvolver um sistema em C (utilizando o codeblocks –
 disponível de forma gratuita no seguinte link: http://www.codeblocks.org/) que será
